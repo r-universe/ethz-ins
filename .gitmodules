@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diffUTR"]
+	path = diffUTR
+	url = https://github.com/ethz-ins/diffutr
+	shallow = true
+	registered = true
